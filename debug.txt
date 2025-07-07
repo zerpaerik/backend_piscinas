@@ -1,0 +1,28 @@
+LOG INICIAL: Entrando a createPiscina
+DEBUG req.body: {"nombre":"Piscina Test","direccion":"Calle 123","altura":"1.5","ancho":"3","ciudad":"CiudadX","municipio":"MunicipioX","temperaturaExterna":"25","categoria":"Niños","totalProfundidades":"2","profundidades":[1,2],"forma":"Rectangular","uso":"Privada","bombas":[{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"","hojaSeguridad":"","fichaTecnica":""}]}
+DEBUG fotoPiscinaUrl: https://dummy-s3-url.com/test-file
+DEBUG bombas: [{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"","hojaSeguridad":"","fichaTecnica":""}]
+LOG INICIAL: Entrando a createPiscina
+DEBUG req.body: {"nombre":"Piscina Test","direccion":"Calle 123","altura":"1.5","ancho":"3","ciudad":"CiudadX","municipio":"MunicipioX","temperaturaExterna":"25","categoria":"Niños","totalProfundidades":"2","profundidades":[1,2],"forma":"Rectangular","uso":"Privada","bombas":[{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"","hojaSeguridad":"","fichaTecnica":""}]}
+DEBUG fotoPiscinaUrl: https://dummy-s3-url.com/test-file
+DEBUG bombas: [{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"https://dummy-s3-url.com/test-file","hojaSeguridad":"https://dummy-s3-url.com/test-file","fichaTecnica":"https://dummy-s3-url.com/test-file"}]
+LOG INICIAL: Entrando a createPiscina
+DEBUG req.body: {"nombre":"Piscina Test","direccion":"Calle 123","altura":"1.5","ancho":"3","ciudad":"CiudadX","municipio":"MunicipioX","temperaturaExterna":"25","categoria":"Niños","totalProfundidades":"2","profundidades":[1,2],"forma":"Rectangular","uso":"Privada","bombas":[{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"","hojaSeguridad":"","fichaTecnica":""}]}
+DEBUG fotoPiscinaUrl: https://dummy-s3-url.com/test-file
+DEBUG bombas: [{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"https://dummy-s3-url.com/test-file","hojaSeguridad":"https://dummy-s3-url.com/test-file","fichaTecnica":"https://dummy-s3-url.com/test-file"}]
+LOG INICIAL: Entrando a createPiscina
+DEBUG req.body: {"nombre":"Piscina Test","direccion":"Calle 123","altura":"1.5","ancho":"3","ciudad":"CiudadX","municipio":"MunicipioX","temperaturaExterna":"25","categoria":"Niños","totalProfundidades":"2","profundidades":[1,2],"forma":"Rectangular","uso":"Privada","bombas":[{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"","hojaSeguridad":"","fichaTecnica":""}]}
+DEBUG fotoPiscinaUrl: https://dummy-s3-url.com/test-file
+DEBUG bombas: [{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"https://dummy-s3-url.com/test-file","hojaSeguridad":"https://dummy-s3-url.com/test-file","fichaTecnica":"https://dummy-s3-url.com/test-file"}]
+LOG INICIAL: Entrando a createPiscina
+DEBUG req.body: {"nombre":"Piscina Test","direccion":"Calle 123","altura":"1.5","ancho":"3","ciudad":"CiudadX","municipio":"MunicipioX","temperaturaExterna":"25","categoria":"Niños","totalProfundidades":"2","profundidades":[1,2],"forma":"Rectangular","uso":"Privada","bombas":[{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"","hojaSeguridad":"","fichaTecnica":""}]}
+DEBUG fotoPiscinaUrl: https://dummy-s3-url.com/test-file
+DEBUG bombas: [{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"https://dummy-s3-url.com/test-file","hojaSeguridad":"https://dummy-s3-url.com/test-file","fichaTecnica":"https://dummy-s3-url.com/test-file"}]
+LOG INICIAL: Entrando a createPiscina
+DEBUG req.body: {"nombre":"Piscina Test","direccion":"Calle 123","altura":"1.5","ancho":"3","ciudad":"CiudadX","municipio":"MunicipioX","temperaturaExterna":"25","categoria":"Niños","totalProfundidades":"2","profundidades":[1,2],"forma":"Rectangular","uso":"Privada","bombas":[{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"","hojaSeguridad":"","fichaTecnica":""}]}
+DEBUG fotoPiscinaUrl: https://dummy-s3-url.com/test-file
+DEBUG bombas: [{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"https://dummy-s3-url.com/test-file","hojaSeguridad":"https://dummy-s3-url.com/test-file","fichaTecnica":"https://dummy-s3-url.com/test-file"}]
+LOG INICIAL: Entrando a createPiscina
+DEBUG req.body: {"nombre":"Piscina Test","direccion":"Calle 123","altura":"1.5","ancho":"3","ciudad":"CiudadX","municipio":"MunicipioX","temperaturaExterna":"25","categoria":"Niños","totalProfundidades":"2","profundidades":[1,2],"forma":"Rectangular","uso":"Privada","bombas":[{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"","hojaSeguridad":"","fichaTecnica":""}]}
+DEBUG fotoPiscinaUrl: 
+DEBUG bombas: [{"marca":"MarcaTest","referencia":"RefTest","potencia":1.5,"material":"Sumergible","seRepite":false,"foto":"","hojaSeguridad":"","fichaTecnica":""}]
