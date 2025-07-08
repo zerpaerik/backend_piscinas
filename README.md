@@ -80,5 +80,15 @@ npm test
 
 Esto ejecutará Jest y Supertest sobre la API. Asegúrate de tener una base de datos de pruebas configurada en tu `.env` para evitar sobrescribir datos reales.
 
+## Documentación Swagger
+
+El backend expone documentación interactiva y detallada de todos los endpoints usando Swagger. Puedes acceder a ella levantando el servidor y visitando:
+
+```
+http://localhost:4000/api/docs
+```
+
+Desde allí puedes explorar, probar y consultar todos los endpoints disponibles.
+
 ## Autor
 Erik Zerpa
